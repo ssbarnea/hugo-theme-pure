@@ -14,7 +14,7 @@ tags = [
   "white",
   "search"
 ]
-features = []
+features = ["mermaid"]
 min_version = "0.57.2"
 
 [author]
